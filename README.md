@@ -1,5 +1,7 @@
 # DarkFactory
 
+[![Markdown Lint](https://github.com/marcelpetrick/DarkFactory/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/marcelpetrick/DarkFactory/actions/workflows/markdownlint.yml)
+
 dark factory instructions for agentic software engineering. Brief and customized
 
 ------
