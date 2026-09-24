@@ -1,9 +1,11 @@
 # DarkFactory
+
 dark factory instructions for agentic software engineering. Brief and customized
 
 ------
 
 ## Before
+
 * prepare a **vision.md** with the specs and requirements (is this spec-driven development?!)
 * prepare a Git repo and clone it locally
 * run your favorite harness (Codex, Claude Code, Pi ..)
